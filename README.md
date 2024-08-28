@@ -6,6 +6,8 @@ This is a broken application meant to be given to a potential new hire to assess
 
 This is a node-based application. It contains a barebones webserver and a mock API to be consumed by both the client- and server-side applications. It renders a homepage as well as 2 routes. The first route is a normal client-side application that fetches some data about people and renders that data to the page. The second route provides the same functionality but it pre-fetches the data server-side such that the page can render even faster client-side and the page can render even without the use of javascript client-side.
 
+![screenshot of application](screenshot.jpg)
+
 ## Getting Started
 
 * The application does not contain a test suite.
